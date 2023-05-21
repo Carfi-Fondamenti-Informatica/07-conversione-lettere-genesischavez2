@@ -8,5 +8,5 @@ bool funzione(char a){
   return true;
   }else 
     return false;
-  }
+  
 }
