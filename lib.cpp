@@ -7,7 +7,7 @@ bool funzione(char a){
       a=a+32;
     }  
   return true;
-  }else 
+  }else{ 
     return false;
-  
+  }
 }
