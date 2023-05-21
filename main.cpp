@@ -7,8 +7,8 @@ int main(){
   cin>>a;
   if(funzione(a)==true){
     cout<<a;
-  } else 
+  } else { 
     cout<<"errore";
- 
- return 0;
+  }
+  return 0;
 }
